@@ -1,4 +1,4 @@
-# ** parabolic loss function with small valleys (dips) in a 3D space **
+# **parabolic loss function with small valleys (dips) in a 3D space**
 
 def parabolic_loss_with_dips_3D(args):
     x, y = args
