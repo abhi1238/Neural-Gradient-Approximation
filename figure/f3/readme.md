@@ -1,7 +1,7 @@
 
 # Visualize the function
 
-''' bash
+```bash
 def parabolic_loss_with_dips_3D(args):
     x, y = args
     base_parabola = x**2 + y**2
@@ -17,7 +17,6 @@ def parabolic_loss_with_dips_3D(args):
 
 f = parabolic_loss_with_dips_3D
 
-
-'''
+```
 
 ![image](https://github.com/user-attachments/assets/7b8c38ff-3cec-44ed-8e7d-0d076fe14e69)
