@@ -44,4 +44,5 @@ f = parabolic_loss_with_dips
 
 ```
 
+![image](https://github.com/user-attachments/assets/23b99be2-c545-45f9-b8d4-2739abc90356)
 
