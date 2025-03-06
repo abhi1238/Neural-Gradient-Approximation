@@ -15,3 +15,6 @@ def parabolic_loss_with_dips_3D(args):
 
 
 f = parabolic_loss_with_dips_3D
+
+![image](https://github.com/user-attachments/assets/00da9d0a-ba39-4580-accf-37bc37a828b1)
+
