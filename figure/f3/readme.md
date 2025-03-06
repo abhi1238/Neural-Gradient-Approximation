@@ -1,4 +1,4 @@
-# ** function **
+# Function
 
 
 def parabolic_loss_with_dips_3D(args):
