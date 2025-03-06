@@ -1,5 +1,6 @@
-# Function
+## 3D function with small local valley
 
+```bash
 
 def parabolic_loss_with_dips_3D(args):
     x, y = args
@@ -12,6 +13,8 @@ def parabolic_loss_with_dips_3D(args):
     )
     
     return base_parabola - dips
+
+```
 
 
 f = parabolic_loss_with_dips_3D
